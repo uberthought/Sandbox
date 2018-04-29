@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker start sandbox
+docker start -i sandbox
